@@ -7,5 +7,5 @@ System.out.println("Modified first time");
 
 // 
 
-	public static void main(){}
+	public static void main(String[] str1){}
 }
